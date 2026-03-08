@@ -127,30 +127,6 @@ Goal:
 
 <td width="50%">
 
-<h3 align="center">🔎 AI Deepfake Detection System</h3>
-
-<div align="center">
-<img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="100%" style="border-radius:15px;">
-</div>
-
-<p align="center">
-<strong>Advanced deep learning system for detecting manipulated media with high accuracy.</strong>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask"/>
-</p>
-
-<p align="center">
-<a href="#">📁 Repository</a> | <a href="#">🎯 Live Demo</a>
-</p>
-
-</td>
-
-<td width="50%">
-
 <h3 align="center">📩 Spam Message Detection</h3>
 
 <div align="center">
@@ -162,13 +138,7 @@ Goal:
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn"/>
-<img src="https://img.shields.io/badge/NLP-00F7FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit"/>
-</p>
-
-<p align="center">
-<a href="#">📁 Repository</a> | <a href="#">📊 Demo</a>
+<img src="https://skillicons.dev/icons?i=sklearn,nlp&theme=dark" />
 </p>
 
 </td>
@@ -182,31 +152,24 @@ Goal:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Anjali1612&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=00F7FF" width="48%" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=black-ice&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="90%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali1612&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=00F7FF" width="48%" />
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anjali1612&theme=black-ice&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="90%" />
 
 </p>
-
----
-
-## 🐍 Contribution Dynamics
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjali1612&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
+
 </p>
+
 
 ---
 
@@ -248,15 +211,15 @@ Goal:
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://linkedin.com/in/linkedin.com/in/swetanjali-yadav-robotics">
 <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="60"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Anjali1612">
 <img src="https://skillicons.dev/icons?i=github&theme=dark" height="60"/>
 </a>
 
-<a href="mailto:your.email@domain.com">
+<a href="mailto:swet.chs5@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="60"/>
 </a>
 
